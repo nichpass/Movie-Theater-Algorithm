@@ -16,6 +16,7 @@ class Utility:
         
         return reservations
 
+    @staticmethod
     def save_to_file(content):
         content.lstrip()
         f = open('out.txt', 'w')

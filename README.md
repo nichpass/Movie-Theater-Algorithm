@@ -2,6 +2,12 @@
 
 ## By Nicholas Passantino
 
+### Running the Program
+All you need to run this program is python. Simply run: `python main.py "test1.txt"` to generate output. The answers to the challenge are saved in `out.txt` while a visualization of where the customers are in the theater is printed to the console. There are a few test files that all work.
+
+### Simple Explanation of my Methodology
+The easiest way to understand what I did is to look at `theater_visualization.jpg` which I made to describe the order of regions where my program delegates customers first before filling in whatever blanks there might be.
+
 
 ### Customer Satisfaction (in order of priority)
 1. Customers prefer to sit next to their reservation group members
